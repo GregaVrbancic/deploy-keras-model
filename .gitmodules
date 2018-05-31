@@ -1,0 +1,6 @@
+[submodule "flask"]
+	path = flask
+	url = git@github.com:GregaVrbancic/deploy-keras-model-flask.git
+[submodule "sanic"]
+	path = sanic
+	url = git@github.com:GregaVrbancic/deploy-keras-model-sanic.git
