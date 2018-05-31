@@ -1,4 +1,4 @@
-# Deploy Keras model as an API web service
+# Deploy Keras model - examples
 
 The list of examples:
 
